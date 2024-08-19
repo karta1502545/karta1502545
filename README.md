@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 <h2 align="left">🧑🏻‍💻 Bobby Lee</h2>
 
 ![](https://komarev.com/ghpvc/?username=karta1502545&color=green)</br>
-🌱 I’m currently learning Database System and Parallel Programming</br>
+🌱
+Hi There! My name is Chun-Yi (Bobby), a CS graduate student at UIUC with expertise in backend engineering, cloud applications, and distributed systems. Python is my primary programming language, and I excel at solving complex technical challenges.
+
+I have a broad range of product development experience, from medical AI monitoring systems to cloud-based applications. My goal is to create value by enhancing customer efficiency and convenience. I am actively seeking a Software Engineering, Backend, or Cloud Infrastructure position and am open to partnership opportunities.
+
+Feel free to reach out via email or LinkedIn if you'd like to discuss potential opportunities</br>
 <!--
 [![wakatime](https://wakatime.com/badge/user/2bb05c40-b0f9-4a70-a6fe-a8fbee318a5c.svg)](https://wakatime.com/@2bb05c40-b0f9-4a70-a6fe-a8fbee318a5c)
 -->
