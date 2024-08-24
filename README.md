@@ -1,34 +1,26 @@
-
-
-<!--
-### Hi there 👋
-**karta1502545/karta1502545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2 align="left">🧑🏻‍💻 Bobby Lee</h2>
 
 ![](https://komarev.com/ghpvc/?username=karta1502545&color=green)</br>
-🌱
-Hi There! My name is Chun-Yi (Bobby), a CS graduate student at UIUC with expertise in backend engineering, cloud applications, and distributed systems. Python is my primary programming language, and I excel at solving complex technical challenges.
 
-I have a broad range of product development experience, from medical AI monitoring systems to cloud-based applications. My goal is to create value by enhancing customer efficiency and convenience. I am actively seeking a Software Engineering, Backend, or Cloud Infrastructure position and am open to partnership opportunities.
+**MCS @ UIUC**</br>
+**Ex-Software Engineering Intern @ MediaTek**</br>
+**Ex-Fullstack Developer Intern @ MVP Fastlane**</br>
+**Ex-Software Engineering Intern - Data @ Nomura Asset Management Co., Ltd.**</br>
+**Ex-Software Engineering Intern - Deep Learning @ ITRI**</br>
 
-Feel free to reach out via email or LinkedIn if you'd like to discuss potential opportunities</br>
+🌱 Hi there! My name is Chun-Yi (Bobby), a CS graduate student at UIUC specializing in product development (backend).
+
+I have a diverse range of **product development experience**, from medical AI monitoring systems to cloud-based applications. I excel at tackling complex technical challenges, and my goal is to create value by improving customer efficiency and convenience.
+
+Driven by a deep interest in understanding how underlying infrastructure works, I am actively seeking a **Software Engineering, Backend, or Cloud Infrastructure position** and am open to partnership opportunities.
+
+Feel free to reach out via [email](mailto:karta15025452@gmail.com) or [LinkedIn](https://www.linkedin.com/in/cy-lee-1502545/) if you'd like to chat with me.</br>
+
+By the way, I created a [personal website](https://chun-yi-lee.netlify.app/) — feel free to check it out!
+
 <!--
 [![wakatime](https://wakatime.com/badge/user/2bb05c40-b0f9-4a70-a6fe-a8fbee318a5c.svg)](https://wakatime.com/@2bb05c40-b0f9-4a70-a6fe-a8fbee318a5c)
 -->
-**MCS @ UIUC**</br>
-**Ex-Fullstack Developer Intern @ MVP Fastlane**</br>
 
 <div align=left> 
   <img src="https://github-stats-alpha.vercel.app/api?username=karta1502545&&cc=0a0f0b&tc=37BCF2&ic=e4e2e2">
